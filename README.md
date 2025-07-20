@@ -1,4 +1,4 @@
-# Discord Eğlence Botu
+# Discord Gelişmiş Eğlence Botu
 
 Bu Discord botu, sunucunuza eğlence katmak için tasarlanmış çeşitli komutlar ve oyunlar içerir.
 
