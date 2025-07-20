@@ -15,3 +15,5 @@ Bu Discord botu, sunucunuza eğlence katmak için tasarlanmış çeşitli komutl
 3. Discord Developer Portal'dan bir bot oluşturun ve token'ı `config.json` dosyasına ekleyin
 4. `node deploy-commands.js` komutunu çalıştırarak slash komutlarını kaydedin
 5. `node index.js` komutu ile botu başlatın
+
+https://www.dmca.com/r/343ydjm
