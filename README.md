@@ -16,4 +16,5 @@ Bu Discord botu, sunucunuza eğlence katmak için tasarlanmış çeşitli komutl
 4. `node deploy-commands.js` komutunu çalıştırarak slash komutlarını kaydedin
 5. `node index.js` komutu ile botu başlatın
 
-[![DMCA](https://hizliresim.com/q3vs7wy)](https://www.dmca.com/r/343ydjm)  
+[DMCA.com Protection Status
+](https://www.dmca.com/r/9p84x7d)
